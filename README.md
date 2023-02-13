@@ -35,8 +35,7 @@ A second year bachelor student at Innopolis University. ICPC world finalist.
 <br/>
 
 <a href="https://github.com/AhmadAlhussin2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmadAlhussin2&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlhussin2&theme=buefy&layout=compact" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalhussin2)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <br/>
