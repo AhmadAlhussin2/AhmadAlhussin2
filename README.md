@@ -1,7 +1,8 @@
 <h1> Hey there! I'm Ahmad.</h1>
 
 [![Badge](https://cp-logo.vercel.app/codeforces/BabaVoss)](https://codeforces.com/profile/BabaVoss)
- 
+[![Badge](https://cp-logo.vercel.app/codechef/baba_voss)](https://www.codechef.com/users/baba_voss)
+
 # 👨🏻‍💻 &nbsp;About Me
 
 A second year bachelor student at Innopolis University. ICPC world finalist. 
